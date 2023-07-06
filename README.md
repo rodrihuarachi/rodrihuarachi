@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank">
 <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently studying **Data Science** at @soyHenry
+- 🌱 Currently studying **Data Science** at <a href="https://github.com/soyHenry">@soyHenry</a>
 - 🎓 I graduated as a Technical in Programming
 - 📫 How to reach me **rodrihuarachi@gmail.com**
 
