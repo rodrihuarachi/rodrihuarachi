@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate about Data Science</h3>
+<h3 align="center">A passionate about Technology and Programming</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank">
 <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
+- 🌱 Currently studying **Data Science** at @soyHenry
+- 🎓 I graduated as a Technical in Programming
 - 📫 How to reach me **rodrihuarachi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,10 +17,11 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrihuarachi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  
+
+
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 
