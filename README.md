@@ -47,6 +47,13 @@ I'm always looking for new opportunities to learn and grow professionally, so if
   <!--<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;-->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;
+
+  <img src="https://img.shields.io/badge/-Seaborn-96B6C5?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BigQuery-4477CE?style=for-the-badge&logo=bigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Hadoop-75C2F6?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Hive-F6635C?style=for-the-badge&logo=apache-hive&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-Matplotlib-4682A9?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <!--<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />&nbsp;-->
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
