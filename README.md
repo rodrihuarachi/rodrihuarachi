@@ -19,10 +19,13 @@ I'm always looking for new opportunities to learn and grow professionally, so if
 
 <!-- Redes Sociales -->
 <h3 align="left">Connect with me:</h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/rodrigohuarachi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rodrihuarachi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigohuarachi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href='mailto:rodrihuarachi@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
   
 <!-- Lenguages and Tools -->
 <h3 align="center">Languages, Frameworks, Library and Tools:</h3>
